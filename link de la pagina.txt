@@ -1,0 +1,16 @@
+---------------------------------------------------------------------
+              TERMINAL DE TRANSPORTES MANIZALES
+---------------------------------------------------------------------
+
+
+https://terminalcaldas.000webhostapp.com/login.html
+
+
+---------------------------------------------------------------------
+                     ACCESO A LOS USUARIOS
+---------------------------------------------------------------------
+
+cliente: 10545871819 suzuki
+empleado: 1054242326 uzuki
+administrador_empleado: 10543243211 mana
+administrador_general: 1054571819 nogikanan
